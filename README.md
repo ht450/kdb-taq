@@ -1,5 +1,8 @@
 # kdb+taq
 
+Hello folks, welcome to the README file!
+Edited by ht450
+
 ## Changes to kdb+taq
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
