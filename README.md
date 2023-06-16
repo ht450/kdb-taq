@@ -1,6 +1,7 @@
 # kdb+taq
 
 Hello folks, welcome to the README file!
+Edited by ht450
 
 ## Changes to kdb+taq
 
